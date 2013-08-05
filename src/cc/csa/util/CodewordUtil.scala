@@ -7,7 +7,7 @@ import java.io.File
 object CodewordUtil {
     def main(args: Array[String]) {
         //        val infile = "/home/lau/whitman-leaves.txt"
-        val infile = "/home/lau/hello/english.100MB"
+        val infile = "/home/lau/hello/english.50MB"
         codeword(infile)
 
     }
